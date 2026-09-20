@@ -50,3 +50,5 @@ group :development, :test do
 end
 
 gem "json", "= 2.21.2"
+
+gem "mongoid", "~> 9.1"
