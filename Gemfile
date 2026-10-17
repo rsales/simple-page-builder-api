@@ -49,6 +49,6 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 end
 
-gem "json", "= 2.21.2"
+gem "json", "3.1.0"
 
 gem "mongoid", "~> 9.1"
